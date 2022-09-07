@@ -2,6 +2,7 @@
 This project shows and introduces my groups approach to a given scenario given and the solution to it.
 
 Scenario: The Two Offices
+
 • The board has established that the two offices located in Venice historical center are not
 anymore good for company efficiency due to the high cost of maintenance and for the higher
 cost of services
